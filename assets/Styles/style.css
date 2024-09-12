@@ -59,3 +59,7 @@ p{
     display: flex;
     column-gap: 2rem;
 }
+.title:hover{
+    color: #f5d04e;
+    transition: .3s ease-in-out;
+}
