@@ -62,4 +62,5 @@ p{
 .title:hover{
     color: #f5d04e;
     transition: .3s ease-in-out;
+    cursor: pointer;
 }
